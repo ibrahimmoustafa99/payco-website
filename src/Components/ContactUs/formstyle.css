@@ -1,0 +1,90 @@
+/* .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .frame .rectangle {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    height: 105px;
+    position: relative;
+    width: 710px;
+  }
+  
+  .frame .text-wrapper {
+    color: var(--gray-body);
+    font-family: var(--headline-5-font-family);
+    font-size: var(--headline-5-font-size);
+    font-style: var(--headline-5-font-style);
+    font-weight: var(--headline-5-font-weight);
+    left: 32px;
+    letter-spacing: var(--headline-5-letter-spacing);
+    line-height: var(--headline-5-line-height);
+    opacity: 0.5;
+    position: absolute;
+    text-align: center;
+    top: 171px;
+  }
+  
+  .frame .div {
+    color: var(--gray-body);
+    font-family: var(--headline-5-font-family);
+    font-size: var(--headline-5-font-size);
+    font-style: var(--headline-5-font-style);
+    font-weight: var(--headline-5-font-weight);
+    left: 33px;
+    letter-spacing: var(--headline-5-letter-spacing);
+    line-height: var(--headline-5-line-height);
+    opacity: 0.5;
+    position: absolute;
+    text-align: center;
+    top: 34px;
+  }
+  
+  .frame .rectangle-2 {
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    height: 207px;
+    position: relative;
+    width: 710px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: var(--gray-body);
+    font-family: var(--headline-5-font-family);
+    font-size: var(--headline-5-font-size);
+    font-style: var(--headline-5-font-style);
+    font-weight: var(--headline-5-font-weight);
+    left: 32px;
+    letter-spacing: var(--headline-5-letter-spacing);
+    line-height: var(--headline-5-line-height);
+    opacity: 0.5;
+    position: absolute;
+    text-align: center;
+    top: 301px;
+  }
+  
+  .frame .rectangle-3 {
+    background: linear-gradient(180deg, rgb(220, 79, 59) 0%, rgb(218, 41, 28) 100%);
+    border-radius: 20px;
+    height: 105px;
+    position: relative;
+    width: 710px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #ffffff;
+    font-family: var(--headline-5-font-family);
+    font-size: var(--headline-5-font-size);
+    font-style: var(--headline-5-font-style);
+    font-weight: var(--headline-5-font-weight);
+    left: 314px;
+    letter-spacing: var(--headline-5-letter-spacing);
+    line-height: var(--headline-5-line-height);
+    position: absolute;
+    text-align: center;
+    top: 547px;
+  } */

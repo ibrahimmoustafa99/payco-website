@@ -1,0 +1,21 @@
+.faq-row-wrapper {
+    .faq-title {
+    }
+
+    .faq-body {
+        .faq-row {
+            .row-title {
+                text-decoration: none;
+                border: none;
+            }
+
+            .row-content {
+                .row-content-text {
+                    text-decoration: none;
+                    border: none;
+            
+                }
+            }
+        }
+    }
+}

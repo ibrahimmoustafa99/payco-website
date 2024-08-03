@@ -1,0 +1,29 @@
+
+@keyframes loop{
+    from{
+        left: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+
+
+.partners{
+   overflow: hidden;
+   white-space: nowrap;
+   width: fit-content;
+   max-width: max-content;
+}
+.partners .partners-slide{
+    width: fit-content;
+    display: inline-block;
+    animation: 5s loop linear infinite ;
+
+}
+.partners-slide img{
+        display: inline-block;
+        margin: 0 130px;
+
+
+}
